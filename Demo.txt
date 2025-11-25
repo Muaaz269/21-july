@@ -4,5 +4,5 @@ my name is muaaz
 code line 1
 code line 2
 
-This is for conflict
+Conflict resolved
 code line 4
